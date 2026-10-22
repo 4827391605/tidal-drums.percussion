@@ -1,0 +1,129 @@
+-- Kicks
+
+d1 $ slow 8 $ n (run 24) # s "bd"
+
+d1 $ slow 8 $ n (run 25) # s "808bd"
+
+d1 $ s "909" -- only 1 sample
+
+d1 $ slow 8 $ n (run 6) # s "hardkick"
+
+d1 $ s "kicklinn" -- only 1 sample
+
+d1 $ slow 8 $ n (run 10) # s "popkick"
+
+d1 $ s "reverbkick" -- only 1 sample
+
+-- Snares and claps
+
+d1 $ slow 8 $ n (run 52) # s "sn"
+
+d1 $ slow 8 $ n (run 25) # s "808sd"
+
+d1 $ slow 8 $ n (run 2) # s "sd"
+
+d1 $ slow 8 $ n (run 2) # s "cp"
+
+d1 $ s "realclaps" -- only 1 sample
+
+-- Hats and cymbals
+
+d1 $ slow 8 $ n (run 13) # s "hh"
+
+d1 $ slow 8 $ n (run 13) # s "hh27"
+
+d1 $ slow 8 $ n (run 5) # s "808oh"
+
+d1 $ slow 8 $ n (run 25) # s "808cy"
+
+-- Toms and congas
+
+d1 $ slow 8 $ n (run 16) # s "ht"
+
+d1 $ slow 8 $ n (run 16) # s "lt"
+
+d1 $ slow 8 $ n (run 16) # s "mt"
+
+d1 $ slow 8 $ n (run 5) # s "808ht"
+
+d1 $ slow 8 $ n (run 5) # s "808lt"
+
+d1 $ slow 8 $ n (run 5) # s "808mt"
+
+d1 $ slow 8 $ n (run 5) # s "808hc"
+
+d1 $ slow 8 $ n (run 5) # s "808lc"
+
+d1 $ slow 8 $ n (run 5) # s "808mc"
+
+-- Other percussion
+
+d1 $ slow 8 $ n (run 6) # s "perc"
+
+d1 $ slow 8 $ n (run 26) # s "tabla"
+
+d1 $ slow 8 $ n (run 46) # s "tabla2"
+
+d1 $ slow 8 $ n (run 6) # s "drum"
+
+d1 $ slow 8 $ n (run 13) # s "drumtraks"
+
+d1 $ slow 8 $ n (run 4) # s "dr55"
+
+d1 $ slow 8 $ n (run 17) # s "hand"
+
+d1 $ slow 8 $ n (run 4) # s "click"
+
+d1 $ slow 8 $ n (run 2) # s "clak"
+
+d1 $ slow 8 $ n (run 5) # s "tink"
+
+d1 $ slow 8 $ n (run 4) # s "tok"
+
+d1 $ slow 8 $ n (run 13) # s "bottle"
+
+d1 $ slow 8 $ n (run 14) # s "can"
+
+d1 $ s "coins" -- only 1 sample
+
+d1 $ slow 8 $ n (run 10) # s "metal"
+
+-- More kicks and percussion
+
+d1 $ slow 8 $ n (run 6) # s "808"
+
+d1 $ slow 8 $ n (run 5) # s "clubkick"
+
+d1 $ slow 8 $ n (run 6) # s "cr"
+
+d1 $ slow 8 $ n (run 7) # s "hc"
+
+d1 $ slow 8 $ n (run 6) # s "linnhats"
+
+-- Breaks and rhythmic loops
+
+d1 $ slow 8 $ n (run 32) # s "amencutup"
+
+d1 $ slow 8 $ n (run 2) # s "breaks125"
+
+d1 $ s "breaks152" -- only 1 sample
+
+d1 $ s "breaks157" -- only 1 sample
+
+d1 $ s "breaks165" -- only 1 sample
+
+d1 $ slow 8 $ n (run 42) # s "dr"
+
+d1 $ slow 8 $ n (run 6) # s "dr2"
+
+d1 $ slow 8 $ n (run 12) # s "hardcore"
+
+d1 $ slow 8 $ n (run 32) # s "industrial"
+
+d1 $ slow 8 $ n (run 13) # s "jungle"
+
+d1 $ slow 8 $ n (run 13) # s "electro1"
+
+d1 $ slow 8 $ n (run 13) # s "tech"
+
+d1 $ slow 8 $ n (run 7) # s "techno"
